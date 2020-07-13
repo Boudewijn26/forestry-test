@@ -7,3 +7,5 @@ fields:
   config:
     required: false
   label: Title
+pages:
+- cms/new-page.md
